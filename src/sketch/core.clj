@@ -5,7 +5,7 @@
 
 (q/defsketch sketch
   :title "Cubic Disarray"
-  :size [900 900]
+  :size [3440 1440]
   :draw dynamic/draw
   :features [:keep-on-top])
 
